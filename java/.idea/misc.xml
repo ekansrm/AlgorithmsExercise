@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ClientPropertiesManager">
     <properties class="javax.swing.AbstractButton">
       <property name="hideActionText" class="java.lang.Boolean" />
@@ -38,6 +39,8 @@
       <property name="caretWidth" class="java.lang.Integer" />
     </properties>
   </component>
+=======
+>>>>>>> ae6a97fd427599badca8bc0138fb49c2f6555a2b
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
