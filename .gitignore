@@ -18,5 +18,8 @@ hs_err_pid*
 *.pyc
 
 
+###IDE
+.idea
+
 ### legacy
 legacy/
