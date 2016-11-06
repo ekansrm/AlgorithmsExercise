@@ -20,6 +20,7 @@ hs_err_pid*
 
 ###IDE
 .idea
+*.iml
 
 ### legacy
 legacy/
